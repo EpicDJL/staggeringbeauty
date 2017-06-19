@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.orion.staggeringbeauty"
+    versionCode = "10"
+    version     = "1.1.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Staggering Beauty</name>
+
+  <icon src="icon144.png" platform="android" width="144" height="144" />
+
+  <description>
+      Android port of Staggering Beauty
+  </description>
+
+  <author href="https://epicdjl.github.io" email="plz@dont.com">
+      Declan Li-Carney
+  </author>
+
+</widget>
